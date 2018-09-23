@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+}
+
+body{
+	background-image: url(header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	width: 100%;
+}
+
+.col{
+	border: solid red;
+	background-color: grey;
+	text-align: center;
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+}
+
+.startup {
+	margin-top: 200px;
+  margin-bottom: 30px;
+}
+h1 {
+	color: white;
+	font-size: 20pt;
+    
+}
+
+button {
+	border-radius: 1cm;
+	background-color: rgb(255,165,0);
+	width: 5cm;
+	height: 1.50cm;
+	color: white;
+	font-size: 12pt;
+	font-family: Montserrat, sans-serif;
+	left: 15cm;
+	top: 11cm;
+	position: relative;
+	
+}
+button:hover {
+	background-color: red;
+	width: 5.3cm;
+	height: 1.80cm;
+}
+
+
+
